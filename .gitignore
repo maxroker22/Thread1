@@ -1,7 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.xml
+.git
+.idea
 target/
 # Project exclude paths
 /out/
